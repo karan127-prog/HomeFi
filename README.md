@@ -230,8 +230,8 @@ pip install pandas numpy matplotlib seaborn reportlab openpyxl
 
 **Karan**  
 B.Tech CSE | Passionate about Data Analytics & Python Development  
-📧 your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+📧 karank55509@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/karan-kumar-28898338a/) · [GitHub](https://github.com/karan127-prog)
 
 ---
 
