@@ -1,0 +1,89 @@
+date,category,type,amount,description
+2024-01-01,Salary,income,45000,Monthly salary
+2024-01-03,Food,expense,2200,Grocery shopping
+2024-01-05,Transport,expense,800,Auto/bus fare
+2024-01-07,Food,expense,650,Restaurant dinner
+2024-01-10,Rent,expense,8000,House rent
+2024-01-12,Utilities,expense,1200,Electricity bill
+2024-01-14,Food,expense,1800,Grocery shopping
+2024-01-15,Entertainment,expense,500,OTT subscriptions
+2024-01-18,Healthcare,expense,900,Medical checkup
+2024-01-20,Food,expense,400,Snacks & tea
+2024-01-22,Transport,expense,600,Petrol
+2024-01-25,Clothing,expense,1500,Shirts & jeans
+2024-01-28,Utilities,expense,400,Water & gas bill
+2024-01-30,Savings,expense,5000,FD deposit
+2024-02-01,Salary,income,45000,Monthly salary
+2024-02-02,Freelance,income,8000,Web project payment
+2024-02-03,Food,expense,2100,Grocery shopping
+2024-02-05,Transport,expense,750,Auto/bus fare
+2024-02-08,Rent,expense,8000,House rent
+2024-02-10,Utilities,expense,1100,Electricity bill
+2024-02-12,Food,expense,1600,Grocery shopping
+2024-02-14,Entertainment,expense,1200,Movie + dinner
+2024-02-16,Healthcare,expense,500,Medicines
+2024-02-18,Education,expense,2000,Online course fee
+2024-02-20,Food,expense,550,Snacks & tea
+2024-02-22,Transport,expense,700,Petrol
+2024-02-25,EMI,expense,3500,Bike EMI
+2024-02-27,Utilities,expense,350,Water & gas bill
+2024-02-28,Savings,expense,7000,RD deposit
+2024-03-01,Salary,income,45000,Monthly salary
+2024-03-03,Food,expense,2400,Grocery shopping
+2024-03-05,Transport,expense,850,Auto/bus fare
+2024-03-07,Rent,expense,8000,House rent
+2024-03-09,Utilities,expense,1350,Electricity bill
+2024-03-11,Food,expense,1900,Grocery shopping
+2024-03-13,Entertainment,expense,800,OTT + gaming
+2024-03-15,Healthcare,expense,2500,Dental visit
+2024-03-18,Food,expense,700,Restaurant
+2024-03-20,EMI,expense,3500,Bike EMI
+2024-03-22,Transport,expense,650,Petrol
+2024-03-25,Clothing,expense,2200,Festival shopping
+2024-03-27,Utilities,expense,420,Water & gas bill
+2024-03-29,Education,expense,1500,Books
+2024-03-30,Savings,expense,6000,FD deposit
+2024-04-01,Salary,income,45000,Monthly salary
+2024-04-02,Freelance,income,12000,App project payment
+2024-04-03,Food,expense,2000,Grocery shopping
+2024-04-05,Transport,expense,780,Auto/bus fare
+2024-04-08,Rent,expense,8000,House rent
+2024-04-10,Utilities,expense,980,Electricity bill
+2024-04-12,Food,expense,1700,Grocery shopping
+2024-04-15,Entertainment,expense,600,OTT subscriptions
+2024-04-18,Healthcare,expense,300,Medicines
+2024-04-20,Food,expense,450,Snacks & tea
+2024-04-22,EMI,expense,3500,Bike EMI
+2024-04-24,Transport,expense,720,Petrol
+2024-04-26,Education,expense,2500,Coaching fee
+2024-04-28,Utilities,expense,380,Water & gas bill
+2024-04-30,Savings,expense,8000,RD deposit
+2024-05-01,Salary,income,45000,Monthly salary
+2024-05-03,Food,expense,2300,Grocery shopping
+2024-05-05,Transport,expense,820,Auto/bus fare
+2024-05-07,Food,expense,900,Restaurant outing
+2024-05-08,Rent,expense,8000,House rent
+2024-05-10,Utilities,expense,1450,Electricity bill
+2024-05-13,Food,expense,1800,Grocery shopping
+2024-05-15,Entertainment,expense,1500,Trip to hills
+2024-05-18,Healthcare,expense,700,Eye checkup
+2024-05-20,EMI,expense,3500,Bike EMI
+2024-05-22,Transport,expense,680,Petrol
+2024-05-25,Clothing,expense,1800,Summer clothes
+2024-05-27,Utilities,expense,410,Water & gas bill
+2024-05-30,Savings,expense,6500,FD deposit
+2024-06-01,Salary,income,45000,Monthly salary
+2024-06-01,Freelance,income,5000,Design project
+2024-06-02,Food,expense,2150,Grocery shopping
+2024-06-04,Transport,expense,760,Auto/bus fare
+2024-06-07,Rent,expense,8000,House rent
+2024-06-09,Utilities,expense,1600,Electricity bill
+2024-06-11,Food,expense,1950,Grocery shopping
+2024-06-14,Entertainment,expense,700,OTT + outing
+2024-06-16,Healthcare,expense,1200,Blood test
+2024-06-18,Food,expense,600,Restaurant
+2024-06-20,EMI,expense,3500,Bike EMI
+2024-06-22,Transport,expense,710,Petrol
+2024-06-25,Education,expense,2000,Online course
+2024-06-27,Utilities,expense,390,Water & gas bill
+2024-06-30,Savings,expense,7500,RD deposit
